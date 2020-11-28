@@ -1,4 +1,4 @@
-# Facial Analysis and Binary Classification of Acutely Ill Patients
+# Facial Analysis for classification of acutely ill individuals
 ### Identifying whether a patient appears sick using Convolutional Neural Networks.
 
 <p align="center">
